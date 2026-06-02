@@ -6,6 +6,16 @@ Bayesian modeling and comparative analysis of global life expectancy using Stan 
   <img src="images/workflow.png" width="1000">
 </p>
 
+---
+
+## Report
+
+A detailed write-up of the methodology, Bayesian models, validation procedures, and findings is available in:
+
+📄 [Final Report](report/final_report.pdf)
+
+---
+
 ## Overview
 
 This project investigates the factors associated with life expectancy across countries using Bayesian statistical modeling.
