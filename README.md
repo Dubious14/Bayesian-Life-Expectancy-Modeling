@@ -2,6 +2,9 @@
 Bayesian modeling and comparative analysis of global life expectancy using Stan and R.
 
 ---
+<p align="center">
+  <img src="images/workflow.png" width="1000">
+</p>
 
 ## Overview
 
