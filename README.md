@@ -158,10 +158,10 @@ African countries showed the highest posterior probability of elevated child mor
 
 ```text
 ├── data/
-├── stan_models/
-├── scripts/
 ├── images/
 ├── report/
+├── scripts/
+├── stan_models/
 └── README.md
 ```
 
